@@ -47,3 +47,4 @@ MH_EnableHook(&AllocConsole);
 }
 return TRUE;
 }
+
